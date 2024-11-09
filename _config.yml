@@ -25,12 +25,13 @@ author:
   avatar           : "profile.png"
   name             : "靳若春"
   pronouns         : "男"# example: "she/her"  
-  bio              : "助理研究员"
+  bio              : "助理研究员 爱丁堡大学博士"
   location         : "德雅路109 湖南长沙 中国 (410073)"
   employer         : "国防科技大学计算机学院"
   uri              : #https://ruochunjin.github.io
   email            : "jinrc@nudt.edu.cn" 
-
+  telephon         : "15607487169"
+  
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
