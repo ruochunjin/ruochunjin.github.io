@@ -28,29 +28,26 @@ redirect_from:
 代表论文
 ------
 （[DBLP](https://dblp.uni-trier.de/pid/197/9561.html)）  
-* Xi Wang, Ruochun Jin, Wanrong Huang, Yuhua Tang. Boosting Meaningful Dependency Mining with Clustering and Covariance Analysis, ICDE2024. (2024)，CCF-A，共同一作，通讯作者
-* Wenfei Fan, Ping Lu, Kehan Pang, Ruochun Jin, Wenyuan Yu. Linking Entities across Relations and Graphs. ACM TODS, https://doi.org/10.1145/3639363 (2024)，CCF-A，通讯作者
-* Wenfei Fan, Wenzhi Fu, Ruochun Jin, Muyang Liu, Ping Lu, Chao Tian. Making It Tractable to Catch Duplicates and Conflicts in Graphs. SIGMOD2023 1(1): 86:1-86:28 (2023)，CCF-A
-* Yang Cao, Wenfei Fan, Wenzhi Fu, Ruochun Jin, Weijie Ou, Wenliang Yi. Extracting Graphs Properties with Semantic Joins. ICDE2023: 2262-2275，CCF-A，主要贡献者，该工作收录入本人博士论文
-* Wenfei Fan, Wenzhi Fu, Ruochun Jin, Ping Lu, Chao Tian: Discovering Association Rules from Big Graphs. VLDB2022 15(7): 1479-1492 (2022)，CCF-A，主要贡献者，该工作收录入本人博士论文
-* Wenfei Fan, Ruochun Jin, Ping Lu, Chao Tian, Ruiqi Xu: Towards Event Prediction in Temporal Graphs. VLDB2022 15(9): 1861-1874 (2022)，CCF-A，主要贡献者，该工作收录入本人博士论文
-* Wenfei Fan, Liang Geng, Ruochun Jin, Ping Lu, Resul Tugay, Wenyuan Yu: Linking Entities across Relations and Graphs. ICDE2022: 634-647，CCF-A
-* Wenfei Fan, Ruochun Jin, Muyang Liu, Ping Lu, Chao Tian, Jingren Zhou: Capturing Associations in Graphs. VLDB2020 13(11): 1863-1876 (2020)，CCF-A，主要贡献者，该工作收录入本人博士论文
-* Wenfei Fan, Ping Lu, Wenyuan Yu, Jingbo Xu, Qiang Yin, Xiaojian Luo, Jingren Zhou, Ruochun Jin: Adaptive Asynchronous Parallelization of Graph Algorithms. ACM TODS. 45(2):6:1-6:45 (2020) CCF-A
-* Wenfei Fan, Ruochun Jin, Muyang Liu, Ping Lu, Xiaojian Luo, Ruiqi Xu, Qiang Yin, Wenyuan Yu, Jingren Zhou: Application Driven Graph Partitioning. SIGMOD2020 1765-1779，CCF-A
-* Ruochun Jin, Yong Dou, Yueqing Wang, Xin Niu: Confusion Graph: Detecting Confusion Communities in Large Scale Image Classification. IJCAI2017: 1980-1986，CCF-A
+* Xi Wang,**Ruochun Jin**, Wanrong Huang, Yuhua Tang. Boosting Meaningful Dependency Mining with Clustering and Covariance Analysis, ICDE2024. (2024)，CCF-A，共同一作，通讯作者
+* Wenfei Fan, Ping Lu, Kehan Pang, **Ruochun Jin**, Wenyuan Yu. Linking Entities across Relations and Graphs. ACM TODS, https://doi.org/10.1145/3639363 (2024)，CCF-A，通讯作者
+* Wenfei Fan, Wenzhi Fu, **Ruochun Jin**, Muyang Liu, Ping Lu, Chao Tian. Making It Tractable to Catch Duplicates and Conflicts in Graphs. SIGMOD2023 1(1): 86:1-86:28 (2023)，CCF-A
+* Yang Cao, Wenfei Fan, Wenzhi Fu, **Ruochun Jin**, Weijie Ou, Wenliang Yi. Extracting Graphs Properties with Semantic Joins. ICDE2023: 2262-2275，CCF-A，主要贡献者，该工作收录入本人博士论文
+* Wenfei Fan, Wenzhi Fu, **Ruochun Jin**, Ping Lu, Chao Tian: Discovering Association Rules from Big Graphs. VLDB2022 15(7): 1479-1492 (2022)，CCF-A，主要贡献者，该工作收录入本人博士论文
+* Wenfei Fan, **Ruochun Jin**, Ping Lu, Chao Tian, Ruiqi Xu: Towards Event Prediction in Temporal Graphs. VLDB2022 15(9): 1861-1874 (2022)，CCF-A，主要贡献者，该工作收录入本人博士论文
+* Wenfei Fan, Liang Geng, **Ruochun Jin**, Ping Lu, Resul Tugay, Wenyuan Yu: Linking Entities across Relations and Graphs. ICDE2022: 634-647，CCF-A
+* Wenfei Fan, **Ruochun Jin**, Muyang Liu, Ping Lu, Chao Tian, Jingren Zhou: Capturing Associations in Graphs. VLDB2020 13(11): 1863-1876 (2020)，CCF-A，主要贡献者，该工作收录入本人博士论文
+* Wenfei Fan, Ping Lu, Wenyuan Yu, Jingbo Xu, Qiang Yin, Xiaojian Luo, Jingren Zhou, **Ruochun Jin**: Adaptive Asynchronous Parallelization of Graph Algorithms. ACM TODS. 45(2):6:1-6:45 (2020) CCF-A
+* Wenfei Fan, **Ruochun Jin**, Muyang Liu, Ping Lu, Xiaojian Luo, Ruiqi Xu, Qiang Yin, Wenyuan Yu, Jingren Zhou: Application Driven Graph Partitioning. SIGMOD2020 1765-1779，CCF-A
+* **Ruochun** Jin, Yong Dou, Yueqing Wang, Xin Niu: Confusion Graph: Detecting Confusion Communities in Large Scale Image Classification. IJCAI2017: 1980-1986，CCF-A
 
 科技专利
 -------
-* 利用聚类和协方差分析加速有意义的函数依赖挖掘方法
-* 一种应用驱动的图划分调整方法和系统
-* 基于时序图规则的事件预测的方法及装置
-* 一种横跨图数据与关系数据的实体对识别方法及装置
-* 一种基于数据采样的并行图规则挖掘方法及装置
-* 调整变量解耦的干预效应估计方法及系统
-*	樊文飞; 靳若春; 陆平; 于文渊 ; 一种横跨图数据与关系数据的实体对识别方法及装置, 2022-03-08, 中国, CN202210227078.1 
-*	樊文飞; 付文智; 靳若春; 陆平; 田超 ; 一种基于数据采样的并行图规则挖掘方法及装置, 2022-08-17, 中国, CN202210988458.7 
-*	樊文飞; 靳若春; 刘沐阳; 陆平; 罗小简; 许瑞琦; 尹强; 于文渊 ; 一种应用驱动的图划分调整方法和系统, 2021-05-28, 中国, CN202010536216.5 
+* **靳若春**，王希，杨文婧，杨绍，黄万荣，陈幻，谭慧彬，利用聚类和协方差分析加速有意义的函数依赖挖掘方法, 2024-08-16，中国，CN118503602A
+* 樊文飞，**靳若春**，刘沐阳，陆平，罗小简，许瑞琦，尹强，于文渊，一种应用驱动的图划分调整方法和系统，2020-10-02，中国，CN111737531A
+* 樊文飞，**靳若春**，陆平，田超，许瑞琦，基于时序图规则的事件预测的方法及装置，2023-04-28，中国，CN116029408A
+* 徐利洋，陈幻，郭烨婷，靳若春，王浩天，杨凇源，调整变量解耦的干预效应估计方法及系统，2024-02-06，中国，CN117521808A
+*	樊文飞，**靳若春**，陆平，于文渊 ，一种横跨图数据与关系数据的实体对识别方法及装置, 2022-03-08, 中国, CN114580390A 
+*	樊文飞，付文智，**靳若春**，陆平，田超，一种基于数据采样的并行图规则挖掘方法及装置, 2022-08-17, 中国, CN115358397A 
 
 
 
