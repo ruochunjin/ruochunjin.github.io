@@ -13,31 +13,22 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "靳若春"
 description              : &description "个人简介"
-url                      : https://jinrc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ruochunjin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "EB-Dodo/jinrc.github.io"
+repository               : "EB-Dodo/ruochunjin.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-#  avatar           : "profile.png"
-#  name             : "Your Sidebar Name"
-#  pronouns         : # example: "she/her"  
-#  bio              : "Short biography for the left-hand sidebar"
-#  location         : "Earth"
-#  employer         : "Red Brick University"
-#  uri              : # URL
-#  email            : "none@example.org" 
-
   avatar           : "profile.png"
   name             : "靳若春"
   pronouns         : "男"# example: "she/her"  
   bio              : "助理研究员"
   location         : "德雅路109 湖南长沙 中国 (410073)"
   employer         : "国防科技大学计算机学院"
-  uri              : #https://yaolimei.github.io
+  uri              : #https://ruochunjin.github.io
   email            : "jinrc@nudt.edu.cn" 
 
   # Academic websites
