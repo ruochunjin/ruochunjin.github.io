@@ -28,7 +28,7 @@ redirect_from:
 代表论文
 ------
 （[DBLP](https://dblp.uni-trier.de/pid/197/9561.html)）  
-* Xi Wang,**Ruochun Jin**, Wanrong Huang, Yuhua Tang. Boosting Meaningful Dependency Mining with Clustering and Covariance Analysis, **ICDE2024**(2024)，CCF-A，**共同一作，通讯作者**
+* Xi Wang,**Ruochun Jin**, Wanrong Huang, Yuhua Tang. Boosting Meaningful Dependency Mining with Clustering and Covariance Analysis. **ICDE2024**(2024)，CCF-A，**共同一作，通讯作者**
 * Wenfei Fan, Ping Lu, Kehan Pang, **Ruochun Jin**, Wenyuan Yu. Linking Entities across Relations and Graphs. **ACM TODS**(2024)，CCF-A，**通讯作者**
 * Wenfei Fan, Wenzhi Fu, **Ruochun Jin**, Muyang Liu, Ping Lu, Chao Tian. Making It Tractable to Catch Duplicates and Conflicts in Graphs. **SIGMOD**(2023)，CCF-A
 * Yang Cao, Wenfei Fan, Wenzhi Fu, **Ruochun Jin**, Weijie Ou, Wenliang Yi. Extracting Graphs Properties with Semantic Joins. **ICDE**(2023)CCF-A，**主要贡献者，该工作收录入本人博士论文**
@@ -52,9 +52,12 @@ redirect_from:
 
 承担科研项目（公开）
 ------
-* 面向含噪数据的规则挖掘快速算法研究，**国家自然科学基金委青年项目**，30万元，2024.01-2026.12，主持，排名1
-* 面向向量数据库的数据质量管理研究，**国防科技大学青年自主创新科学基金项目**，30万元，2024.01-2026.12，主持，排名1
-* 向量数据质量规则及其快速挖掘技术研究，**高性能计算国家重点实验室自主课题**，28万元，2024.04-2025.11，主持，排名1
+* 面向含噪数据的规则挖掘快速算法研究，**国家自然科学基金委青年项目**
+  30万元，2024.01-2026.12，主持，排名1
+* 面向向量数据库的数据质量管理研究，**国防科技大学青年自主创新科学基金项目**
+  30万元，2024.01-2026.12，主持，排名1
+* 向量数据质量规则及其快速挖掘技术研究，**高性能计算国家重点实验室自主课题**
+  28万元，2024.04-2025.11，主持，排名1
 
 
 教学与学术活动
