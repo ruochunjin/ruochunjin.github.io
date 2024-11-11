@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "靳若春"
-  pronouns         : "男"# example: "she/her"  
+  pronouns         : #"男"# example: "she/her"  
   bio              : "助理研究员"
   location         : "湖南省长沙市开福区"
   employer         : "国防科技大学计算机学院"
