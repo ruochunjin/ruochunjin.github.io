@@ -24,11 +24,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "靳若春"
-  pronouns         : #"男"# example: "she/her"  
+  pronouns         : "jinrc AT nudt DOT edu DOT cn" #"男"# example: "she/her"  
   bio              : "助理研究员"
   location         : "湖南省长沙市开福区"
   employer         : "国防科技大学计算机学院"
-  uri              : jinrc AT nudt DOT edu DOT cn
+#  uri              : jinrc AT nudt DOT edu DOT cn
 #  email            : "jinrc@nudt.edu.cn" 
   
   # Academic websites
