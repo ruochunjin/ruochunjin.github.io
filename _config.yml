@@ -22,7 +22,7 @@ repository               : "EB-Dodo/ruochunjin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ruochun.png"
   name             : "靳若春"
   pronouns         : "jinrc AT nudt DOT edu DOT cn" #"男"# example: "she/her"  
   bio              : "助理研究员"
