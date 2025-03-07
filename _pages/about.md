@@ -52,7 +52,7 @@ Your Neighbor Matters: Towards Fair Decisions Under Networked Interference. **KD
 * 樊文飞，**靳若春**，刘沐阳，陆平，罗小简，许瑞琦，尹强，于文渊，一种应用驱动的图划分调整方法和系统，2020-10-02，中国，CN111737531A
 
 
-科研项目（公开）
+科研项目
 ------
 * **中国科协第十届青年人才托举工程项目**  
   30万元，2024-2026，主持，排名1
