@@ -11,8 +11,8 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "靳若春"
-description              : &description "个人简介"
+name                     : &name "靳若春 JIN Ruochun"
+description              : &description "个人简介 Short Bio"
 url                      : https://ruochunjin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "EB-Dodo/ruochunjin.github.io"
@@ -23,11 +23,11 @@ repository               : "EB-Dodo/ruochunjin.github.io"
 author:
   # Biographic information
   avatar           : "ruochun.png"
-  name             : "靳若春"
+  name             : "靳若春 JIN Ruochun"
   pronouns         : "jinrc AT nudt DOT edu DOT cn" #"男"# example: "she/her"  
-  bio              : "助理研究员"
-  location         : "湖南省长沙市开福区"
-  employer         : "国防科技大学计算机学院"
+  bio              : "助理研究员 Assistant Research Fellow"
+  location         : "湖南省长沙市开福区 Kaifu, Changsha, Hunan, China"
+  employer         : "国防科技大学计算机学院 College of Computer, NUDT"
 #  uri              : jinrc AT nudt DOT edu DOT cn
 #  email            : "jinrc@nudt.edu.cn" 
   
