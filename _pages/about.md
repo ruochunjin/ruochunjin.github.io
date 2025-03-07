@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "靳若春"
+title: "靳若春 JIN Ruochun"
 author_profile: true
 redirect_from: 
   - /about/
