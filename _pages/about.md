@@ -15,6 +15,7 @@ JIN Ruochun is an assistant researcher at the College of Computer, National Univ
 论文代表作
 ------
 （全部论文列表详见本人[DBLP](https://dblp.uni-trier.de/pid/197/9561.html)页面）  
+(Please refer to my [DBLP](https://dblp.uni-trier.de/pid/197/9561.html) page for more details)
 
 * Xi Wang, **Ruochun Jin***, Wanrong Huang, Yuhua Tang. Boosting Meaningful Dependency Mining with Clustering and Covariance Analysis. **ICDE 2024**: 639-652. **CCF推荐数据库A类会议**，**共同一作、通讯作者**
 
