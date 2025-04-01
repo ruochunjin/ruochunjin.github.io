@@ -82,7 +82,10 @@ Your Neighbor Matters: Towards Fair Decisions Under Networked Interference. **KD
 ------
 * 2024年11月，作为论坛主席主持2024 CCF中国软件大会“大模型评测技术”论坛。[论坛链接](https://chinasoft.ccf.org.cn/program/academic)
 
+<!--
 * 2024年8月，参加第41届CCF中国数据库学术会议(NDBC 2024)，成功竞选CCF数据库专业委员会执行委员。[专委链接](http://tcdb.ccf.org.cn/tcdb/zzjg/)
+-->
+
 
 * 2024年5月，受邀参加第二届数据科学与大数据专业产学合作论坛，作题为《立足“融合点概念”的数据科学课程实践》的报告。[论坛链接](https://mp.weixin.qq.com/s/YRBblscHSGqxPU4PBjWwzw)
 
