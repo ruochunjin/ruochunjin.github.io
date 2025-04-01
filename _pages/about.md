@@ -15,7 +15,7 @@ JIN Ruochun is an assistant researcher at the College of Computer, National Univ
 论文代表作
 ------
 （全部论文列表详见本人[DBLP](https://dblp.uni-trier.de/pid/197/9561.html)页面）  
-(Please refer to my [DBLP](https://dblp.uni-trier.de/pid/197/9561.html) page for more details)
+(Please refer to my [DBLP](https://dblp.uni-trier.de/pid/197/9561.html) page for more)
 
 * Meng Zhang, Kexin Ma, Liyang Xu, Kedi Zhang, Yuanxi Peng, **Ruochun Jin***. CLEAR: A Parser-Independent Disambiguation Framework for NL2SQL. **ICDE 2025**. **CCF推荐数据库A类会议**，**通讯作者**
 
