@@ -24,7 +24,7 @@ JIN Ruochun is an assistant researcher at the College of Computer, National Univ
 * Wenfei Fan, Ping Lu, Kehan Pang, **Ruochun Jin***, Wenyuan Yu. Linking Entities across Relations and Graphs. **ACM Trans. Database Syst.** 49(1): 2:1-2:50 (2024). **CCF推荐数据库A类期刊**，**通讯作者**
 
 * Kexin Ma, **Ruochun Jin***, Xi Wang, Huan Chen, Jing Ren, Yuhua Tang:
-Context-Driven Index Trimming: A Data Quality Perspective to Enhancing Precision of RALMs. **EMNLP 2024**. **CCF推荐人工智能B类会议、自然语言处理顶级会议**，**共同一作、通讯作者**
+Context-Driven Index Trimming: A Data Quality Perspective to Enhancing Precision of RALMs. **EMNLP 2024 Findings**. **CCF推荐人工智能B类会议、自然语言处理顶级会议**，**共同一作、通讯作者**
 
 * Wenjing Yang, Haotian Wang, Haoxuan Li, Hao Zou, **Ruochun Jin**, Kun Kuang, Peng Cui:
 Your Neighbor Matters: Towards Fair Decisions Under Networked Interference. **KDD 2024**: 3829-3840; **CCF推荐数据挖掘A类会议**
