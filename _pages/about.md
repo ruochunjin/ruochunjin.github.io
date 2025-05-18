@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-靳若春，国防科技大学计算机学院助理研究员，爱丁堡大学信息学博士（数据库方向），**研究方向为数据库理论与系统、数据质量、大模型与大数据**。融合逻辑规则和统计学习方法，围绕大规模图数据质量管理、图与关系数据统一查询、并行图计算优化、大模型数据管理等课题开展研究，近年来在SIGMOD、VLDB、ICDE、TODS等CCF-A类数据库顶级会议与期刊发表学术论文11篇，授权/申请专利6项，主持国自科青年基金项目、国家重点实验室课题、国防科大青年自主创新基金项目。担任CCF数据库专委会执行委员、CCF软件工程专委会委员，获2024-2026“CCF青年人才托举工程”（中国科协第十届青年人才托举工程项目支持）。主讲本科专业必修课《数据科学与大数据基础》。
+靳若春，国防科技大学计算机学院助理研究员，爱丁堡大学信息学博士（数据库方向），**研究方向为数据库理论与系统、数据质量、大模型与大数据**。融合逻辑规则和统计学习方法，围绕大规模图数据质量管理、图与关系数据统一查询、并行图计算优化、大模型数据管理等课题开展研究，近年来在SIGMOD、VLDB、ICDE、TODS等CCF-A类数据库顶级会议与期刊发表学术论文11篇，授权/申请专利6项，主持国自科青年基金项目等。担任CCF数据库专委会执行委员、CCF软件工程专委会委员，获2024-2026“CCF青年人才托举工程”（中国科协第十届青年人才托举工程项目支持）。主讲本科专业必修课《数据科学与大数据基础》。
 
 JIN Ruochun is an assistant researcher at the College of Computer Science and Technology, National University of Defense Technology. He holds a Ph.D. in Informatics (Database) from the University of Edinburgh. His research interests span database theory and systems, data quality, and big data. By integrating logical rules and statistical learning methods, he has been studying large-scale graph management, unified querying across graph and relational data, parallel graph computing optimization, and data management for large language models. He has published 11 academic papers in top database conferences and journals such as SIGMOD, VLDB, ICDE, and TODS, and has authorized/applied for 6 patents. His research has been funded by National Natural Science Foundation of China (Youth Program), a project of the State Key Laboratory, and the Youth Independent Innovation Fund Project of NUDT. He serves as an executive committee member of the Database Professional Committee of CCF and a committee member of the Software Engineering Professional Committee of CCF. He has been selected for the "CCF Youth Talent Support Program 2024 - 2026" (supported by the 10th Youth Talent Support Program of the China Association for Science and Technology). He teaches the undergraduate course "Fundations of Data Science and Big Data". 
 
@@ -61,17 +61,11 @@ Your Neighbor Matters: Towards Fair Decisions Under Networked Interference. **KD
 
 科研项目
 ------
-* **中国科协第十届青年人才托举工程项目**  
+* **中国科协第十届青年人才托举工程项目**
   30万元，2024-2026，主持，排名1
+  [公示链接](https://www.ccf.org.cn/Media_list/2025-01-26/837752.shtml)
 * 面向含噪数据的规则挖掘快速算法研究，**国家自然科学基金委青年项目**  
   30万元，2024.01-2026.12，主持，排名1
-
-<!--
-* 面向向量数据库的数据质量管理研究，**国防科技大学青年自主创新科学基金项目**  
-  30万元，2024.01-2026.12，主持，排名1
-* 向量数据质量规则及其快速挖掘技术研究，**高性能计算国家重点实验室自主课题**  
-  23万元，2024.04-2025.11，主持，排名1
--->
 
 
 
@@ -83,11 +77,6 @@ Your Neighbor Matters: Towards Fair Decisions Under Networked Interference. **KD
 学术交流
 ------
 * 2024年11月，作为论坛主席主持2024 CCF中国软件大会“大模型评测技术”论坛。[论坛链接](https://chinasoft.ccf.org.cn/program/academic)
-
-<!--
-* 2024年8月，参加第41届CCF中国数据库学术会议(NDBC 2024)，成功竞选CCF数据库专业委员会执行委员。[专委链接](http://tcdb.ccf.org.cn/tcdb/zzjg/)
--->
-
 
 * 2024年5月，受邀参加第二届数据科学与大数据专业产学合作论坛，作题为《立足“融合点概念”的数据科学课程实践》的报告。[论坛链接](https://mp.weixin.qq.com/s/YRBblscHSGqxPU4PBjWwzw)
 
