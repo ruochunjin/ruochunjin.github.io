@@ -17,6 +17,8 @@ JIN Ruochun is an assistant researcher at the College of Computer Science and Te
 （全部论文列表详见本人[DBLP](https://dblp.uni-trier.de/pid/197/9561.html)页面）  
 (Please refer to my [DBLP](https://dblp.uni-trier.de/pid/197/9561.html) page for more)
 
+* Haoqi Zheng, Dong Wang, Silin Yang, Yunpeng Qi, **Ruochun Jin***. Logical DA: Enhancing Data Augmentation for Logical Reasoning via a Multi-Agent System. **ACL 2025 Findings**. **CCF推荐数据库A类会议**，**通讯作者**
+
 * Meng Zhang, Kexin Ma, Liyang Xu, Kedi Zhang, Yuanxi Peng, **Ruochun Jin***. CLEAR: A Parser-Independent Disambiguation Framework for NL2SQL. **ICDE 2025**. **CCF推荐数据库A类会议**，**通讯作者**
 
 * Xi Wang, **Ruochun Jin***, Wanrong Huang, Yuhua Tang. Boosting Meaningful Dependency Mining with Clustering and Covariance Analysis. **ICDE 2024**: 639-652. **CCF推荐数据库A类会议**，**共同一作、通讯作者**
