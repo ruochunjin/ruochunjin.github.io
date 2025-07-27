@@ -11,6 +11,8 @@ redirect_from:
 
 JIN Ruochun is an assistant researcher at the College of Computer Science and Technology, National University of Defense Technology. He holds a Ph.D. in Informatics (Database) from the University of Edinburgh. His research interests span database theory and systems, data quality, and big data. By integrating logical rules and statistical learning methods, he has been studying large-scale graph management, unified querying across graph and relational data, parallel graph computing optimization, and data management for large language models. He has published 11 academic papers in top database conferences and journals such as SIGMOD, VLDB, ICDE, and TODS, and has authorized/applied for 6 patents. His research has been funded by National Natural Science Foundation of China (Youth Program), a project of the State Key Laboratory, and the Youth Independent Innovation Fund Project of NUDT. He serves as an executive committee member of the Database Professional Committee of CCF and a committee member of the Software Engineering Professional Committee of CCF. He has been selected for the "CCF Youth Talent Support Program 2024 - 2026" (supported by the 10th Youth Talent Support Program of the China Association for Science and Technology). He teaches the undergraduate course "Fundations of Data Science and Big Data". 
 
+本人所属课题组长期招收硕士、博士研究生，诚邀对数据库、数据管理等研究方向感兴趣的同学加入，有意者请将个人简历及自我介绍发送至我的邮箱。
+
 
 论文代表作
 ------
@@ -83,3 +85,4 @@ Your Neighbor Matters: Towards Fair Decisions Under Networked Interference. **KD
 * 2024年5月，受邀参加第二届数据科学与大数据专业产学合作论坛，作题为《立足“融合点概念”的数据科学课程实践》的报告。[论坛链接](https://mp.weixin.qq.com/s/YRBblscHSGqxPU4PBjWwzw)
 
 * 2023年6月，受邀参加第三期CCF秀湖会议“人工智能时代计算机课程体系”研讨，介绍国防科技大学在“数据科学与大数据基础”课程的建设与实践经验。相关研讨成果写入第三期CCF秀湖会议报告，发表于2023年11月《中国计算机学会通讯》。[报告链接](https://www.ccf.org.cn/CCF_BC/activities/BLS/2023-11-15/798154.shtml)
+
