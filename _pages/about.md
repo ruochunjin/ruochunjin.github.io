@@ -19,11 +19,14 @@ JIN Ruochun is an assistant researcher at the College of Computer Science and Te
 （全部论文列表详见本人[DBLP](https://dblp.uni-trier.de/pid/197/9561.html)页面）  
 (Please refer to my [DBLP](https://dblp.uni-trier.de/pid/197/9561.html) page for more)
 
+* Shenglin Chen, Wenfei Fan, **Ruochun Jin***. Outliers: The Good, the Bad and the Ugly. **SIGMOD 2026**. **CCF推荐数据库A类会议**，**通讯作者**
 
+* Siyi Yang, Shenglin Chen, Xi Wang, Yuhua Tang, **Ruochun Jin***. Fast Discovery of Functional Dependencies via Bayesian Network Learning. **ICDE 2026**. **CCF推荐数据库A类会议**，**通讯作者**
+
+* **Ruochun Jin**, Xiyue Wang, Dong Wang, Haoqi Zheng, Yunpeng Qi, Silin Yang, Meng Zhang.
+TALON: A Multi-Agent Framework for Long-Table Exploration and Question Answering. **EMNLP 2025**. **CCF推荐人工智能B类会议、自然语言处理顶级会议**，**第一作者**
 
 * Jintao Huang, Dong Wang, Shasha Li, Yuanxi Peng, **Ruochun Jin***. Enhancing Multimodal Entity Linking via Distillation and Multimodal Large Language Models. **CIKM 2025**. **CCF推荐数据库B类会议**，**通讯作者**
-
-* Shenglin Chen, Wenfei Fan, **Ruochun Jin***. Outliers: The Good, the Bad and the Ugly. **SIGMOD 2026**. **CCF推荐数据库A类会议**，**通讯作者**
 
 * Haoqi Zheng, Dong Wang, Silin Yang, Yunpeng Qi, **Ruochun Jin***. Logical DA: Enhancing Data Augmentation for Logical Reasoning via a Multi-Agent System. **ACL 2025 Findings**. **CCF推荐人工智能A类会议、自然语言处理顶级会议**，**通讯作者**
 
@@ -33,7 +36,7 @@ JIN Ruochun is an assistant researcher at the College of Computer Science and Te
 
 * Wenfei Fan, Ping Lu, Kehan Pang, **Ruochun Jin***, Wenyuan Yu. Linking Entities across Relations and Graphs. **ACM Trans. Database Syst.** 49(1): 2:1-2:50 (2024). **CCF推荐数据库A类期刊**，**通讯作者**
 
-* Kexin Ma, **Ruochun Jin***, Xi Wang, Huan Chen, Jing Ren, Yuhua Tang:
+* Kexin Ma, **Ruochun Jin***, Xi Wang, Huan Chen, Jing Ren, Yuhua Tang.
 Context-Driven Index Trimming: A Data Quality Perspective to Enhancing Precision of RALMs. **EMNLP 2024 Findings**. **CCF推荐人工智能B类会议、自然语言处理顶级会议**，**共同一作、通讯作者**
 
 * Wenjing Yang, Haotian Wang, Haoxuan Li, Hao Zou, **Ruochun Jin**, Kun Kuang, Peng Cui:
@@ -54,7 +57,7 @@ Your Neighbor Matters: Towards Fair Decisions Under Networked Interference. **KD
 
 * Wenfei Fan, **Ruochun Jin**, Muyang Liu, Ping Lu, Xiaojian Luo, Ruiqi Xu, Qiang Yin, Wenyuan Yu, Jingren Zhou. Application Driven Graph Partitioning. **SIGMOD** Conference 2020: 1765-1779. **CCF推荐数据库A类会议**，姓氏字母排序
 
-* **Ruochun** Jin, Yong Dou, Yueqing Wang, Xin Niu: Confusion Graph. Detecting Confusion Communities in Large Scale Image Classification. **IJCAI 2017**: 1980-1986, **CCF推荐人工智能A类会议**，**第一作者**，**作为代表作收录入本人硕士学位论文**
+* **Ruochun Jin**, Yong Dou, Yueqing Wang, Xin Niu: Confusion Graph. Detecting Confusion Communities in Large Scale Image Classification. **IJCAI 2017**: 1980-1986, **CCF推荐人工智能A类会议**，**第一作者**，**作为代表作收录入本人硕士学位论文**
 
 
 发明专利
@@ -87,6 +90,8 @@ Your Neighbor Matters: Towards Fair Decisions Under Networked Interference. **KD
 
 学术交流
 ------
+* 2025年9月，作为讲者参加第三届CCF中国计算机系统大会（CCF SYS 2025）体系结构优秀青年学者与博士生发展，汇报数据系统前沿进展。[论坛链接](https://mp.weixin.qq.com/s/1YM-CV_PgezOSHpKMIAWEg)
+
 * 2024年11月，作为论坛主席主持2024 CCF中国软件大会“大模型评测技术”论坛。[论坛链接](https://chinasoft.ccf.org.cn/program/academic)
 
 * 2024年5月，受邀参加第二届数据科学与大数据专业产学合作论坛，作题为《立足“融合点概念”的数据科学课程实践》的报告。[论坛链接](https://mp.weixin.qq.com/s/YRBblscHSGqxPU4PBjWwzw)
