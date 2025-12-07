@@ -11,12 +11,12 @@ redirect_from:
 
 JIN Ruochun is an associate professor at the College of Computer Science and Technology, National University of Defense Technology. He holds a Ph.D. in Informatics (Database) from the University of Edinburgh. His research interests span database theory and systems, data quality, and big data. By integrating logical rules and statistical learning methods, he has been studying large-scale graph management, unified querying across graph and relational data, parallel graph computing optimization, and data management for large language models. He has published 12 academic papers in top database conferences and journals such as SIGMOD, VLDB, ICDE, and TODS, and has authorized/applied for 6 patents. His research has been funded by National Natural Science Foundation of China (Youth Program), a project of the State Key Laboratory, and the Youth Independent Innovation Fund Project of NUDT. He serves as an executive committee member of the Database Professional Committee of CCF and a committee member of the Software Engineering Professional Committee of CCF. He has been selected for the "CCF Youth Talent Support Program 2024 - 2026" (supported by the 10th Youth Talent Support Program of the China Association for Science and Technology). He teaches the undergraduate course "Fundations of Data Science and Big Data". 
 
-本人所属课题组长期招收硕士、博士研究生，诚邀对数据库、数据管理等研究方向感兴趣的同学加入，有意者请将个人简历及自我介绍发送至我的邮箱。
+所在课题组长期招收硕士、博士研究生，诚邀对数据库、数据管理等研究方向感兴趣的同学加入，有意者请将个人简历及自我介绍发送至我的邮箱。
 
 
 论文代表作
 ------
-（全部论文列表详见本人[DBLP](https://dblp.uni-trier.de/pid/197/9561.html)页面）  
+（全部论文列表详见我的[DBLP](https://dblp.uni-trier.de/pid/197/9561.html)页面）  
 (Please refer to my [DBLP](https://dblp.uni-trier.de/pid/197/9561.html) page for more)
 
 * Shenglin Chen, Wenfei Fan, **Ruochun Jin***. Outliers: The Good, the Bad and the Ugly. **SIGMOD 2026**. **CCF推荐数据库A类会议**，**通讯作者**
