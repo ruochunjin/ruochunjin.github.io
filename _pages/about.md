@@ -23,7 +23,11 @@ JIN Ruochun is an associate professor at the College of Computer Science and Tec
 
 * Shenglin Chen, Wenfei Fan, **Ruochun Jin***. Outliers: The Good, the Bad and the Ugly. **SIGMOD 2026**. **CCF推荐数据库A类会议**，**通讯作者**
 
+* Zhiyue Li, Guangyan Zhang, **Ruochun Jin**, Bojun Li, Xiaoguang Ren, Wenjing Yang. PathSeer: Adaptive Neighbor Handling for Efficient Filtered ANN Search. **SIGMOD 2026**. **CCF推荐数据库A类会议**
+
 * Siyi Yang, Shenglin Chen, Xi Wang, Yuhua Tang, **Ruochun Jin***. Fast Discovery of Functional Dependencies via Bayesian Network Learning. **ICDE 2026**. **CCF推荐数据库A类会议**，**通讯作者**
+
+* Qiyuan Zhang, **Ruochun Jin***, Jixin Zhang, Yuhua Tang, Xiang Zhao, Shixuan Liu. L³C: Leaf-Centric Continuous Codes for Natural Language-Driven Table Discovery. **ICDE 2026**. **CCF推荐数据库A类会议**，**共同一作**
 
 **2025**
 
