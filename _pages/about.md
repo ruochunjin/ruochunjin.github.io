@@ -29,6 +29,8 @@ JIN Ruochun is an associate professor at the College of Computer Science and Tec
 
 * Qiyuan Zhang, **Ruochun Jin***, Jixin Zhang, Yuhua Tang, Xiang Zhao, Shixuan Liu. L³C: Leaf-Centric Continuous Codes for Natural Language-Driven Table Discovery. **ICDE 2026**. **CCF推荐数据库A类会议**，**共同一作**
 
+* 王浩天, 周学广, 王尚文, **靳若春**, 黄万荣, 杨文婧, 王戟. 扩散模型引导的根因分析. 《软件学报》2026. （CCF分级T1类顶级中文期刊）
+
 **2025**
 
 * **Ruochun Jin**, Xiyue Wang, Dong Wang, Haoqi Zheng, Yunpeng Qi, Silin Yang, Meng Zhang.
