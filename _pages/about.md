@@ -31,12 +31,12 @@ JIN Ruochun is an associate professor at the College of Computer Science and Tec
 
 * Qiyuan Zhang, **Ruochun Jin***, Jixin Zhang, Yuhua Tang, Xiang Zhao, Shixuan Liu. L³C: Leaf-Centric Continuous Codes for Natural Language-Driven Table Discovery. **ICDE 2026**. **CCF推荐数据库A类会议**，**共同一作**
 
-* 王浩天, 周学广, 王尚文, **靳若春**, 黄万荣, 杨文婧, 王戟. 扩散模型引导的根因分析. 《软件学报》2026. （CCF分级T1类顶级中文期刊）
+* 王浩天, 周学广, 王尚文, **靳若春**, 黄万荣, 杨文婧, 王戟. 扩散模型引导的根因分析. 《软件学报》2026. （CCF分级T1类顶级中文期刊）[论文链接](https://jos.org.cn/jos/article/abstract/7473)
 
 **2025**
 
 * **Ruochun Jin**, Xiyue Wang, Dong Wang, Haoqi Zheng, Yunpeng Qi, Silin Yang, Meng Zhang.
-TALON: A Multi-Agent Framework for Long-Table Exploration and Question Answering. **EMNLP 2025**. **CCF推荐人工智能B类会议、自然语言处理顶级会议**，**第一作者**
+TALON: A Multi-Agent Framework for Long-Table Exploration and Question Answering. **EMNLP 2025**. **CCF推荐人工智能B类会议、自然语言处理顶级会议**，**第一作者** [论文链接](https://aclanthology.org/2025.emnlp-main.1393/)
 
 * Jintao Huang, Dong Wang, Shasha Li, Yuanxi Peng, **Ruochun Jin***. Enhancing Multimodal Entity Linking via Distillation and Multimodal Large Language Models. **CIKM 2025**. **CCF推荐数据库B类会议**，**通讯作者**
 
