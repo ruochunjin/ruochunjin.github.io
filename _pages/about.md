@@ -46,19 +46,19 @@ TALON: A Multi-Agent Framework for Long-Table Exploration and Question Answering
 
 **2024**
 
-* Xi Wang, **Ruochun Jin***, Wanrong Huang, Yuhua Tang. Boosting Meaningful Dependency Mining with Clustering and Covariance Analysis. **ICDE 2024**: 639-652. **CCF推荐数据库A类会议**，**共同一作、通讯作者**
+* Xi Wang, **Ruochun Jin***, Wanrong Huang, Yuhua Tang. Boosting Meaningful Dependency Mining with Clustering and Covariance Analysis. **ICDE 2024**: 639-652. **CCF推荐数据库A类会议**，**共同一作、通讯作者** [论文链接](https://ieeexplore.ieee.org/document/10597728)
 
-* Wenfei Fan, Ping Lu, Kehan Pang, **Ruochun Jin***, Wenyuan Yu. Linking Entities across Relations and Graphs. **ACM Trans. Database Syst.** 49(1): 2:1-2:50 (2024). **CCF推荐数据库A类期刊**，**通讯作者**
+* Wenfei Fan, Ping Lu, Kehan Pang, **Ruochun Jin***, Wenyuan Yu. Linking Entities across Relations and Graphs. **ACM Trans. Database Syst.** 49(1): 2:1-2:50 (2024). **CCF推荐数据库A类期刊**，**通讯作者** [论文链接](https://dl.acm.org/doi/full/10.1145/3639363)
 
 * Kexin Ma, **Ruochun Jin***, Xi Wang, Huan Chen, Jing Ren, Yuhua Tang.
-Context-Driven Index Trimming: A Data Quality Perspective to Enhancing Precision of RALMs. **EMNLP 2024 Findings**. **CCF推荐人工智能B类会议、自然语言处理顶级会议**，**共同一作、通讯作者**
+Context-Driven Index Trimming: A Data Quality Perspective to Enhancing Precision of RALMs. **EMNLP 2024 Findings**. **CCF推荐人工智能B类会议Findings**，**共同一作、通讯作者** [论文链接](https://aclanthology.org/2024.findings-emnlp.281/)
 
 * Wenjing Yang, Haotian Wang, Haoxuan Li, Hao Zou, **Ruochun Jin**, Kun Kuang, Peng Cui:
-Your Neighbor Matters: Towards Fair Decisions Under Networked Interference. **KDD 2024**: 3829-3840; **CCF推荐数据挖掘A类会议**
+Your Neighbor Matters: Towards Fair Decisions Under Networked Interference. **KDD 2024**: 3829-3840; **CCF推荐数据挖掘A类会议** [论文链接](https://dl.acm.org/doi/10.1145/3637528.3671960)
 
 **2023及以前**
 
-* Wenfei Fan, Wenzhi Fu, **Ruochun Jin**, Muyang Liu, Ping Lu, Chao Tian. Making It Tractable to Catch Duplicates and Conflicts in Graphs. **Proc. ACM Manag. Data** 1(1): 86:1-86:28 (2023). **CCF推荐数据库A类会议**，姓氏字母排序
+* Wenfei Fan, Wenzhi Fu, **Ruochun Jin**, Muyang Liu, Ping Lu, Chao Tian. Making It Tractable to Catch Duplicates and Conflicts in Graphs. **Proc. ACM Manag. Data** 1(1): 86:1-86:28 (2023). **CCF推荐数据库A类会议**，姓氏字母排序 [论文链接](https://dl.acm.org/doi/10.1145/3588940)
 
 * Yang Cao, Wenfei Fan, Wenzhi Fu, **Ruochun Jin***, Weijie Ou, Wenliang Yi. Extracting Graphs Properties with Semantic Joins. **ICDE 2023**: 2262-2275. **CCF推荐数据库A类会议**，姓氏字母排序、主要贡献者，**作为代表作收录入本人博士学位论文**
 
