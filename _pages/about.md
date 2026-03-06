@@ -21,7 +21,9 @@ JIN Ruochun is an associate professor at the College of Computer Science and Tec
 
 **2026**
 
-* Shenglin Chen, Wenfei Fan, **Ruochun Jin***. Outliers: The Good, the Bad and the Ugly. **SIGMOD 2026**. **CCF推荐数据库A类会议**，**通讯作者**
+* Shenglin Chen, Wenfei Fan, **Ruochun Jin***. Outliers: The Good, the Bad and the Ugly. **SIGMOD 2026**. **CCF推荐数据库A类会议**，**通讯作者** [论文链接](https://dl.acm.org/doi/10.1145/3749177)
+
+  
 
 * Zhiyue Li, Guangyan Zhang, **Ruochun Jin**, Bojun Li, Xiaoguang Ren, Wenjing Yang. PathSeer: Adaptive Neighbor Handling for Efficient Filtered ANN Search. **SIGMOD 2026**. **CCF推荐数据库A类会议**
 
@@ -103,7 +105,7 @@ Your Neighbor Matters: Towards Fair Decisions Under Networked Interference. **KD
 
 教学工作
 ------
-* 主讲国防科技大学**本科专业必修课《数据科学与大数据基础》**，相关教学科研成果发表在《计算机教育》期刊：杨文婧，**靳若春（通讯作者）**，李雪琼. 立足"融合点概念"的学科交叉融合人才培养[J]. 计算机教育(2023)，2023-04-06 [论文链接]([https://www.ccf.org.cn/Media_list/2025-01-26/837752.shtml](https://www.cnki.com.cn/Article/CJFDTotal-JYJS202304006.htm))
+* 主讲国防科技大学**本科专业必修课《数据科学与大数据基础》**，相关教学科研成果发表在《计算机教育》期刊：杨文婧，**靳若春（通讯作者）**，李雪琼. 立足"融合点概念"的学科交叉融合人才培养[J]. 计算机教育(2023)，2023-04-06 [论文链接](https://www.cnki.com.cn/Article/CJFDTotal-JYJS202304006.htm)
 
 
 学术交流
