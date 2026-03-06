@@ -60,20 +60,20 @@ Your Neighbor Matters: Towards Fair Decisions Under Networked Interference. **KD
 
 * Wenfei Fan, Wenzhi Fu, **Ruochun Jin**, Muyang Liu, Ping Lu, Chao Tian. Making It Tractable to Catch Duplicates and Conflicts in Graphs. **Proc. ACM Manag. Data** 1(1): 86:1-86:28 (2023). **CCF推荐数据库A类会议**，姓氏字母排序 [论文链接](https://dl.acm.org/doi/10.1145/3588940)
 
-* Yang Cao, Wenfei Fan, Wenzhi Fu, **Ruochun Jin***, Weijie Ou, Wenliang Yi. Extracting Graphs Properties with Semantic Joins. **ICDE 2023**: 2262-2275. **CCF推荐数据库A类会议**，姓氏字母排序、主要贡献者，**作为代表作收录入本人博士学位论文**
+* Yang Cao, Wenfei Fan, Wenzhi Fu, **Ruochun Jin***, Weijie Ou, Wenliang Yi. Extracting Graphs Properties with Semantic Joins. **ICDE 2023**: 2262-2275. **CCF推荐数据库A类会议**，姓氏字母排序、主要贡献者，**作为代表作收录入本人博士学位论文** [论文链接](https://ieeexplore.ieee.org/document/10184864)
 
-* Wenfei Fan, Wenzhi Fu, **Ruochun Jin**, Ping Lu, Chao Tian. Discovering Association Rules from Big Graphs.  Proc. **VLDB** Endow. 15(7): 1479-1492 (2022). **CCF推荐数据库A类会议**，姓氏字母排序、主要贡献者，**作为代表作收录入本人博士学位论文**
+* Wenfei Fan, Wenzhi Fu, **Ruochun Jin**, Ping Lu, Chao Tian. Discovering Association Rules from Big Graphs.  Proc. **VLDB** Endow. 15(7): 1479-1492 (2022). **CCF推荐数据库A类会议**，姓氏字母排序、主要贡献者，**作为代表作收录入本人博士学位论文** [论文链接](https://www.vldb.org/pvldb/vol15/p1479-tian.pdf)
 
-* Wenfei Fan, **Ruochun Jin**, Ping Lu, Chao Tian, Ruiqi Xu. Towards Event Prediction in Temporal Graphs. Proc. **VLDB** Endow. 15(9): 1861-1874 (2022). **CCF推荐数据库A类会议**，姓氏字母排序、主要贡献者，**作为代表作收录入本人博士学位论文**
+* Wenfei Fan, **Ruochun Jin**, Ping Lu, Chao Tian, Ruiqi Xu. Towards Event Prediction in Temporal Graphs. Proc. **VLDB** Endow. 15(9): 1861-1874 (2022). **CCF推荐数据库A类会议**，姓氏字母排序、主要贡献者，**作为代表作收录入本人博士学位论文** [论文链接](https://www.vldb.org/pvldb/vol15/p1861-tian.pdf)
 
 
-* Wenfei Fan, **Ruochun Jin**, Muyang Liu, Ping Lu, Chao Tian, Jingren Zhou. Capturing Associations in Graphs. Proc. **VLDB** Endow. 13(11): 1863-1876 (2020). **CCF推荐数据库A类会议**，姓氏字母排序、主要贡献者，**作为代表作收录入本人博士学位论文**
+* Wenfei Fan, **Ruochun Jin**, Muyang Liu, Ping Lu, Chao Tian, Jingren Zhou. Capturing Associations in Graphs. Proc. **VLDB** Endow. 13(11): 1863-1876 (2020). **CCF推荐数据库A类会议**，姓氏字母排序、主要贡献者，**作为代表作收录入本人博士学位论文** [论文链接](https://www.vldb.org/pvldb/vol13/p1863-fan.pdf)
 
-* Wenfei Fan, Ping Lu, Wenyuan Yu, Jingbo Xu, Qiang Yin, Xiaojian Luo, Jingren Zhou, **Ruochun Jin**. Adaptive Asynchronous Parallelization of Graph Algorithms. **ACM Trans. Database Syst.** 45(2): 6:1-6:45 (2020). **CCF推荐数据库A类期刊**，姓氏字母排序
+* Wenfei Fan, Ping Lu, Wenyuan Yu, Jingbo Xu, Qiang Yin, Xiaojian Luo, Jingren Zhou, **Ruochun Jin**. Adaptive Asynchronous Parallelization of Graph Algorithms. **ACM Trans. Database Syst.** 45(2): 6:1-6:45 (2020). **CCF推荐数据库A类期刊**，姓氏字母排序 [论文链接](https://dl.acm.org/doi/10.1145/3397491)
 
-* Wenfei Fan, **Ruochun Jin**, Muyang Liu, Ping Lu, Xiaojian Luo, Ruiqi Xu, Qiang Yin, Wenyuan Yu, Jingren Zhou. Application Driven Graph Partitioning. **SIGMOD** Conference 2020: 1765-1779. **CCF推荐数据库A类会议**，姓氏字母排序
+* Wenfei Fan, **Ruochun Jin**, Muyang Liu, Ping Lu, Xiaojian Luo, Ruiqi Xu, Qiang Yin, Wenyuan Yu, Jingren Zhou. Application Driven Graph Partitioning. **SIGMOD** Conference 2020: 1765-1779. **CCF推荐数据库A类会议**，姓氏字母排序 [论文链接](https://dl.acm.org/doi/10.1145/3318464.3389745)
 
-* **Ruochun Jin**, Yong Dou, Yueqing Wang, Xin Niu: Confusion Graph. Detecting Confusion Communities in Large Scale Image Classification. **IJCAI 2017**: 1980-1986, **CCF推荐人工智能A类会议**，**第一作者**，**作为代表作收录入本人硕士学位论文**
+* **Ruochun Jin**, Yong Dou, Yueqing Wang, Xin Niu: Confusion Graph. Detecting Confusion Communities in Large Scale Image Classification. **IJCAI 2017**: 1980-1986, **CCF推荐人工智能A类会议**，**第一作者**，**作为代表作收录入本人硕士学位论文** [论文链接](https://www.ijcai.org/proceedings/2017/0275.pdf)
 
 
 发明专利
