@@ -21,7 +21,7 @@ JIN Ruochun is an associate professor at the College of Computer Science and Tec
 
 **2026**
 
-* Shenglin Chen, Wenfei Fan, **Ruochun Jin***. Outliers: The Good, the Bad and the Ugly. **SIGMOD 2026**. **CCF推荐数据库A类会议**，**通讯作者** [论文链接](https://dl.acm.org/doi/10.1145/3749177)
+* Shenglin Chen, Wenfei Fan, **Ruochun Jin***. Outliers: The Good, the Bad and the Ugly. **SIGMOD 2026**. **CCF推荐数据库A类会议**，姓氏字母排序，**通讯作者** [论文链接](https://dl.acm.org/doi/10.1145/3749177)
 
   
 
