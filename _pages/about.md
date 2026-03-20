@@ -21,32 +21,32 @@ JIN Ruochun is an associate professor at the College of Computer Science and Tec
 
 **2026**
 
-* Shenglin Chen （课题组博士研究生）, Wenfei Fan, **Ruochun Jin***. Outliers: The Good, the Bad and the Ugly. **SIGMOD 2026**. **CCF推荐数据库A类会议**，**通讯作者** [论文链接](https://dl.acm.org/doi/10.1145/3749177)
+* Shenglin Chen, Wenfei Fan, **Ruochun Jin***. Outliers: The Good, the Bad and the Ugly. **SIGMOD 2026**. **CCF推荐数据库A类会议**，**通讯作者** [论文链接](https://dl.acm.org/doi/10.1145/3749177)
 
   
 
-* Zhiyue Li（联合培养博士研究生）, Guangyan Zhang, **Ruochun Jin**, Bojun Li, Xiaoguang Ren, Wenjing Yang. PathSeer: Adaptive Neighbor Handling for Efficient Filtered ANN Search. **SIGMOD 2026**. **CCF推荐数据库A类会议**
+* Zhiyue Li, Guangyan Zhang, **Ruochun Jin**, Bojun Li, Xiaoguang Ren, Wenjing Yang. PathSeer: Adaptive Neighbor Handling for Efficient Filtered ANN Search. **SIGMOD 2026**. **CCF推荐数据库A类会议**
 
-* Siyi Yang（课题组博士研究生）, Shenglin Chen, Xi Wang, Yuhua Tang, **Ruochun Jin***. Fast Discovery of Functional Dependencies via Bayesian Network Learning. **ICDE 2026**. **CCF推荐数据库A类会议**，**通讯作者**
+* Siyi Yang, Shenglin Chen, Xi Wang, Yuhua Tang, **Ruochun Jin***. Fast Discovery of Functional Dependencies via Bayesian Network Learning. **ICDE 2026**. **CCF推荐数据库A类会议**，**通讯作者**
 
-* Qiyuan Zhang（课题组博士研究生）, **Ruochun Jin***, Jixin Zhang, Yuhua Tang, Xiang Zhao, Shixuan Liu. L³C: Leaf-Centric Continuous Codes for Natural Language-Driven Table Discovery. **ICDE 2026**. **CCF推荐数据库A类会议**，**共同一作**
+* Qiyuan Zhang, **Ruochun Jin***, Jixin Zhang, Yuhua Tang, Xiang Zhao, Shixuan Liu. L³C: Leaf-Centric Continuous Codes for Natural Language-Driven Table Discovery. **ICDE 2026**. **CCF推荐数据库A类会议**，**共同一作**
 
 * 王浩天, 周学广, 王尚文, **靳若春**, 黄万荣, 杨文婧, 王戟. 扩散模型引导的根因分析. 《软件学报》2026. （CCF分级T1类顶级中文期刊）[论文链接](https://jos.org.cn/jos/article/abstract/7473)
 
 **2025**
 
-* **Ruochun Jin**, Xiyue Wang（课题组硕士研究生）, Dong Wang, Haoqi Zheng, Yunpeng Qi, Silin Yang, Meng Zhang.
+* **Ruochun Jin**, Xiyue Wang, Dong Wang, Haoqi Zheng, Yunpeng Qi, Silin Yang, Meng Zhang.
 TALON: A Multi-Agent Framework for Long-Table Exploration and Question Answering. **EMNLP 2025**. **CCF推荐人工智能B类会议、自然语言处理顶级会议**，**第一作者** [论文链接](https://aclanthology.org/2025.emnlp-main.1393/)
 
-* Jintao Huang（课题组博士研究生）, Dong Wang, Shasha Li, Yuanxi Peng, **Ruochun Jin***. Enhancing Multimodal Entity Linking via Distillation and Multimodal Large Language Models. **CIKM 2025**. **CCF推荐数据挖掘B类会议**，**通讯作者** [论文链接](https://dl.acm.org/doi/10.1145/3746252.3761053)
+* Jintao Huang, Dong Wang, Shasha Li, Yuanxi Peng, **Ruochun Jin***. Enhancing Multimodal Entity Linking via Distillation and Multimodal Large Language Models. **CIKM 2025**. **CCF推荐数据挖掘B类会议**，**通讯作者** [论文链接](https://dl.acm.org/doi/10.1145/3746252.3761053)
 
-* Haoqi Zheng（课题组博士研究生）, Dong Wang, Silin Yang, Yunpeng Qi, **Ruochun Jin***. Logical DA: Enhancing Data Augmentation for Logical Reasoning via a Multi-Agent System. **ACL 2025 Findings**. **CCF推荐人工智能A类会议 Findings**，**通讯作者** [论文链接](https://aclanthology.org/2025.findings-acl.356/)
+* Haoqi Zheng, Dong Wang, Silin Yang, Yunpeng Qi, **Ruochun Jin***. Logical DA: Enhancing Data Augmentation for Logical Reasoning via a Multi-Agent System. **ACL 2025 Findings**. **CCF推荐人工智能A类会议 Findings**，**通讯作者** [论文链接](https://aclanthology.org/2025.findings-acl.356/)
 
-* Meng Zhang（课题组博士研究生）, Kexin Ma, Liyang Xu, Kedi Zhang, Yuanxi Peng, **Ruochun Jin***. CLEAR: A Parser-Independent Disambiguation Framework for NL2SQL. **ICDE 2025**. **CCF推荐数据库A类会议**，**通讯作者** [论文链接](https://ieeexplore.ieee.org/abstract/document/11113237)
+* Meng Zhang, Kexin Ma, Liyang Xu, Kedi Zhang, Yuanxi Peng, **Ruochun Jin***. CLEAR: A Parser-Independent Disambiguation Framework for NL2SQL. **ICDE 2025**. **CCF推荐数据库A类会议**，**通讯作者** [论文链接](https://ieeexplore.ieee.org/abstract/document/11113237)
 
 **2024**
 
-* Xi Wang（课题组博士研究生）, **Ruochun Jin***, Wanrong Huang, Yuhua Tang. Boosting Meaningful Dependency Mining with Clustering and Covariance Analysis. **ICDE 2024**: 639-652. **CCF推荐数据库A类会议**，**共同一作、通讯作者** [论文链接](https://ieeexplore.ieee.org/document/10597728)
+* Xi Wang, **Ruochun Jin***, Wanrong Huang, Yuhua Tang. Boosting Meaningful Dependency Mining with Clustering and Covariance Analysis. **ICDE 2024**: 639-652. **CCF推荐数据库A类会议**，**共同一作、通讯作者** [论文链接](https://ieeexplore.ieee.org/document/10597728)
 
 * Wenfei Fan, Ping Lu, Kehan Pang, **Ruochun Jin***, Wenyuan Yu. Linking Entities across Relations and Graphs. **ACM Trans. Database Syst.** 49(1): 2:1-2:50 (2024). **CCF推荐数据库A类期刊**，**通讯作者** [论文链接](https://dl.acm.org/doi/full/10.1145/3639363)
 
