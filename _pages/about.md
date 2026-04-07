@@ -22,14 +22,19 @@ JIN Ruochun is an associate professor at the College of Computer Science and Tec
 **2026**
 
 * Shenglin Chen, Wenfei Fan, **Ruochun Jin***. Outliers: The Good, the Bad and the Ugly. **SIGMOD 2026**. **CCF推荐数据库A类会议**，姓氏字母排序，**通讯作者** [论文链接](https://dl.acm.org/doi/10.1145/3749177)
-
-  
+ 
 
 * Zhiyue Li, Guangyan Zhang, **Ruochun Jin**, Bojun Li, Xiaoguang Ren, Wenjing Yang. PathSeer: Adaptive Neighbor Handling for Efficient Filtered ANN Search. **SIGMOD 2026**. **CCF推荐数据库A类会议**
 
 * Siyi Yang, Shenglin Chen, Xi Wang, Yuhua Tang, **Ruochun Jin***. Fast Discovery of Functional Dependencies via Bayesian Network Learning. **ICDE 2026**. **CCF推荐数据库A类会议**，**通讯作者**
 
 * Qiyuan Zhang, **Ruochun Jin***, Jixin Zhang, Yuhua Tang, Xiang Zhao, Shixuan Liu. L³C: Leaf-Centric Continuous Codes for Natural Language-Driven Table Discovery. **ICDE 2026**. **CCF推荐数据库A类会议**，**共同一作**
+
+* Kexin Ma, Haotian Wang, Shenglin Chen, Yishuai Cai, Huangyuyu, **Ruochun Jin***.
+Conflict-Aware Memory for Embodied Agents: Enhancing Vector Data Quality via Detection Rules. **ACL 2026**. **CCF推荐人工智能A类会议**，**通讯作者**
+
+* Meng Zhang, **Ruochun Jin**, Wenjing Yang, Haotian Wang, Liting Sun, Kun Hu, Silin Yang, Kedi Zhang, Yuanxi Peng.
+CORES: Code-Oriented Reasoning for Complex Text-to-SQL and Generalizable TableQA. **ACL 2026 Findings**. **CCF推荐人工智能A类会议Findings**
 
 * 王浩天, 周学广, 王尚文, **靳若春**, 黄万荣, 杨文婧, 王戟. 扩散模型引导的根因分析. 《软件学报》2026. （CCF分级T1类顶级中文期刊）[论文链接](https://jos.org.cn/jos/article/abstract/7473)
 
@@ -50,7 +55,7 @@ TALON: A Multi-Agent Framework for Long-Table Exploration and Question Answering
 
 * Wenfei Fan, Ping Lu, Kehan Pang, **Ruochun Jin***, Wenyuan Yu. Linking Entities across Relations and Graphs. **ACM Trans. Database Syst.** 49(1): 2:1-2:50 (2024). **CCF推荐数据库A类期刊**，**通讯作者** [论文链接](https://dl.acm.org/doi/full/10.1145/3639363)
 
-* Kexin Ma（课题组博士研究生）, **Ruochun Jin***, Xi Wang, Huan Chen, Jing Ren, Yuhua Tang.
+* Kexin Ma, **Ruochun Jin***, Xi Wang, Huan Chen, Jing Ren, Yuhua Tang.
 Context-Driven Index Trimming: A Data Quality Perspective to Enhancing Precision of RALMs. **EMNLP 2024 Findings**. **CCF推荐人工智能B类会议Findings**，**共同一作、通讯作者** [论文链接](https://aclanthology.org/2024.findings-emnlp.281/)
 
 * Wenjing Yang, Haotian Wang, Haoxuan Li, Hao Zou, **Ruochun Jin**, Kun Kuang, Peng Cui:
