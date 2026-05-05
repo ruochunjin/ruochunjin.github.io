@@ -19,7 +19,7 @@ JIN Ruochun is an associate professor at the College of Computer Science and Tec
 * 2022.06-2025.11 国防科技大学计算机学院，助理研究员
 
 
-论文代表作
+学术论文
 ------
 （全部论文列表详见我的[DBLP](https://dblp.uni-trier.de/pid/197/9561.html)页面）  
 (Please refer to my [DBLP](https://dblp.uni-trier.de/pid/197/9561.html) page for more)
