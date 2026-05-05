@@ -104,6 +104,9 @@ Your Neighbor Matters: Towards Fair Decisions Under Networked Interference. **KD
 * 面向含噪数据的规则挖掘快速算法研究，**国家自然科学基金委青年项目**  
   30万元，2024.01-2026.12，主持，排名1
 
+学术服务
+------
+* 担任VLDB、KDD、ACL、EMNLP、ACMMM、China SYS等会议审稿人。
 
 
 教学工作
