@@ -130,6 +130,10 @@ Your Neighbor Matters: Towards Fair Decisions Under Networked Interference. **KD
 
 其他
 ------
+* 硕士学位论文《基于混淆图的深度模型缺陷分析与大规模图像数据集标注清洗》，导师：窦勇研究员，[论文链接](https://kns.cnki.net/kcms2/article/abstract?v=K7S5TI5vrAT-2SnIUOEJdlMHZpwrn3lyKfwhbUhN4TNJQjMCRV-wmx2szU0NPn_rX23ZpzP4mLzNdxZfNencXXqfRrpSPdJzsm6jvcQANsoz-bJVDRKchqIEgEL9uaszDBXT5AqAKFayNjxoei_dYlyCi-AyF8vP72qZ6mSq5AY=&uniplatform=NZKPT)
+  
+* 博士学位论文《Tackling the veracity and variety of big data》,导师：Prof. Wenfei Fan、Prof. Leonid	Libkin，[论文链接](https://era.ed.ac.uk/items/065e3753-24ba-4494-a2f2-a4d82ec05751)
+  
 * [My PhD life in LFCS, School of Informatics, University of Edinburgh](https://informatics.ed.ac.uk/lfcs/study-with-us/current-students/ruochun-jin)
 
 * [Members of the Database Group, School of Informatics, University of Edinburgh](https://groups.inf.ed.ac.uk/dbgroup/people.html)
