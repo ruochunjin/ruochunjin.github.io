@@ -26,7 +26,7 @@ JIN Ruochun is an associate professor at the College of Computer Science and Tec
 
 **2027**
 
-* Shenglin Chen (协助指导博士生), Wenfei Fan, **Ruochun Jin**, Kexin Ma. Detecting Contradictions Within and Across Documents. **SIGMOD 2027** (Round 1). **CCF推荐数据库A类会议**，姓氏字母排序，**通讯作者**
+* Shenglin Chen (协助指导博士生), Wenfei Fan, **Ruochun Jin***, Kexin Ma. Detecting Contradictions Within and Across Documents. **SIGMOD 2027** (Round 1). **CCF推荐数据库A类会议**，姓氏字母排序，**通讯作者**
 
 **2026**
 
