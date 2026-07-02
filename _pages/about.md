@@ -40,7 +40,7 @@ JIN Ruochun is an associate professor at the College of Computer Science and Tec
 
 * Qiyuan Zhang (协助指导博士生), **Ruochun Jin***, Jixin Zhang, Yuhua Tang, Xiang Zhao, Shixuan Liu. L³C: Leaf-Centric Continuous Codes for Natural Language-Driven Table Discovery. **ICDE 2026**. **CCF推荐数据库A类会议**，**共同一作** [录用论文列表链接](https://icde2026.github.io/accepted-papers.html)
 
-* Kexin Ma  (协助指导博士生), Haotian Wang, Shenglin Chen, Yishuai Cai, Huangyuyu, **Ruochun Jin***.
+* Kexin Ma  (协助指导博士生), Haotian Wang, Shenglin Chen, Yishuai Cai, Yu Huang, **Ruochun Jin***.
 Conflict-Aware Memory for Embodied Agents: Enhancing Vector Data Quality via Detection Rules. **ACL 2026 (Oral Presentation)**. **CCF推荐人工智能A类会议**，**通讯作者** [录用论文列表链接](https://2026.aclweb.org/program/accepted_papers/)
 
 * Meng Zhang  (协助指导博士生), **Ruochun Jin**, Wenjing Yang, Haotian Wang, Liting Sun, Kun Hu, Silin Yang, Kedi Zhang, Yuanxi Peng.
