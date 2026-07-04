@@ -46,7 +46,7 @@ Conflict-Aware Memory for Embodied Agents: Enhancing Vector Data Quality via Det
 * Meng Zhang  (协助指导博士生), **Ruochun Jin**, Wenjing Yang, Haotian Wang, Liting Sun, Kun Hu, Silin Yang, Kedi Zhang, Yuanxi Peng.
 CORES: Code-Oriented Reasoning for Complex Text-to-SQL and Generalizable TableQA. **ACL 2026 Findings**. **CCF推荐人工智能A类会议Findings** [录用论文列表链接](https://2026.aclweb.org/program/accepted_papers/)
 
-* Chen Chen, Junsheng Chang, Xin Yang, Ruochun Jin, Li Shen, Kai Lu. PUMatch: Bandwidth-Efficient DFS-based Subgraph Matching under GPU Memory Oversubscription. **SC 2026**.  **CCF推荐体系结构A类会议**
+* Chen Chen, Junsheng Chang, Xin Yang, **Ruochun Jin**, Li Shen, Kai Lu. PUMatch: Bandwidth-Efficient DFS-based Subgraph Matching under GPU Memory Oversubscription. **SC 2026**.  **CCF推荐体系结构A类会议**
 
 * 王浩天, 周学广, 王尚文, **靳若春**, 黄万荣, 杨文婧, 王戟. 扩散模型引导的根因分析. 《软件学报》2026. （CCF分级T1类顶级中文期刊）[论文链接](https://jos.org.cn/jos/article/abstract/7473)
 
