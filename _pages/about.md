@@ -33,7 +33,6 @@ JIN Ruochun is an associate professor at the College of Computer Science and Tec
 
 * Shenglin Chen (协助指导博士生), Wenfei Fan, **Ruochun Jin***. Outliers: The Good, the Bad and the Ugly. **SIGMOD 2026** (Round 1). **CCF推荐数据库A类会议**，姓氏字母排序，**通讯作者** [论文链接](https://dl.acm.org/doi/10.1145/3749177)
  
-
 * Zhiyue Li (协助指导博士生), Guangyan Zhang, **Ruochun Jin**, Bojun Li, Xiaoguang Ren, Wenjing Yang. PathSeer: Adaptive Neighbor Handling for Efficient Filtered ANN Search. **SIGMOD 2026** (Round 4). **CCF推荐数据库A类会议** [论文链接](https://dl.acm.org/doi/10.1145/3802098)
 
 * Siyi Yang  (协助指导博士生), Shenglin Chen, Xi Wang, Yuhua Tang, **Ruochun Jin***. Fast Discovery of Functional Dependencies via Bayesian Network Learning. **ICDE 2026**. **CCF推荐数据库A类会议**，**通讯作者** [录用论文列表链接](https://icde2026.github.io/accepted-papers.html)
@@ -45,6 +44,8 @@ Conflict-Aware Memory for Embodied Agents: Enhancing Vector Data Quality via Det
 
 * Meng Zhang  (协助指导博士生), **Ruochun Jin**, Wenjing Yang, Haotian Wang, Liting Sun, Kun Hu, Silin Yang, Kedi Zhang, Yuanxi Peng.
 CORES: Code-Oriented Reasoning for Complex Text-to-SQL and Generalizable TableQA. **ACL 2026 Findings**. **CCF推荐人工智能A类会议Findings** [论文链接](https://aclanthology.org/2026.findings-acl.237.pdf)
+
+* Jintao Huang (协助指导博士生), **Ruochun Jin**, Bojun Li, Yuanxi Peng. VOMEL: Void-Aware Optimization for Multimodal Entity Linking. **ACM MM 2026**.  **CCF推荐计算机图形学与多媒体A类会议**
 
 * Chen Chen, Junsheng Chang, Xin Yang, **Ruochun Jin**, Li Shen, Kai Lu. PUMatch: Bandwidth-Efficient DFS-based Subgraph Matching under GPU Memory Oversubscription. **SC 2026**.  **CCF推荐体系结构A类会议**
 
