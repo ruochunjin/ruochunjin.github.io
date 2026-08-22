@@ -119,7 +119,7 @@ Your Neighbor Matters: Towards Fair Decisions Under Networked Interference. **KD
 
 学术服务
 ------
-* 担任VLDB、KDD、ACL (AC)、EMNLP (AC)、ACMMM、ChinaSys等会议审稿人。
+* 担任VLDB、KDD、ACL (AC)、EMNLP (AC)、ACMMM、ChinaSys、WSDM、DSE等会议与期刊审稿人。
 
 教学工作
 ------
