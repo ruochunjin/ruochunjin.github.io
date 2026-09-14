@@ -26,13 +26,13 @@ JIN Ruochun is an associate professor at the College of Computer Science and Tec
 
 **2027**
 
-* Zixiao Huang, **Ruochun Jin***, Haotian Wang, Meng Zhang, Yuhua Tang. Catching Inconsistencies in Vector Similarity Retrieval. **SIGMOD 2027** (Round 2). **CCF推荐数据库A类会议**，**通讯作者**
+* Zixiao Huang (协助指导博士生), **Ruochun Jin***, Haotian Wang, Meng Zhang, Yuhua Tang. Catching Inconsistencies in Vector Similarity Retrieval. **SIGMOD 2027** (Round 2). **CCF推荐数据库A类会议**，**通讯作者**
 
 * Shenglin Chen (协助指导博士生), Wenfei Fan, **Ruochun Jin***, Kexin Ma. Detecting Contradictions Within and Across Documents. **SIGMOD 2027** (Round 1). **CCF推荐数据库A类会议**，姓氏字母排序，**通讯作者**
 
-* **Ruochun Jin**, Shenglin Chen, Xi Wang, Siyi Yang, Ting Wang. Fast Discovery of Conditional Functional Dependencies via Transformer-Guided Relation Partitioning. **VLDB 2027**. **CCF推荐数据库A类会议**
+* **Ruochun Jin**, Shenglin Chen (协助指导博士生), Xi Wang, Siyi Yang, Ting Wang. Fast Discovery of Conditional Functional Dependencies via Transformer-Guided Relation Partitioning. **VLDB 2027**. **CCF推荐数据库A类会议**
 
-* Xi Wang, Zixiao Huang, Tailai Zhang, Yuhua Tang, **Ruochun Jin***. Thought Mining for Large Language Model Reasoning. **VLDB 2027**. **CCF推荐数据库A类会议**，**通讯作者**
+* Xi Wang (协助指导博士生), Zixiao Huang, Tailai Zhang, Yuhua Tang, **Ruochun Jin***. Thought Mining for Large Language Model Reasoning. **VLDB 2027**. **CCF推荐数据库A类会议**，**通讯作者**
 
 **2026**
 
