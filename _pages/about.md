@@ -58,7 +58,7 @@ CORES: Code-Oriented Reasoning for Complex Text-to-SQL and Generalizable TableQA
 
 **2025**
 
-* **Ruochun Jin**, Xiyue Wang, Dong Wang, Haoqi Zheng, Yunpeng Qi, Silin Yang, Meng Zhang.
+* **Ruochun Jin**, Xiyue Wang (协助指导硕士生), Dong Wang, Haoqi Zheng, Yunpeng Qi, Silin Yang, Meng Zhang.
 TALON: A Multi-Agent Framework for Long-Table Exploration and Question Answering. **EMNLP 2025**. **CCF推荐人工智能B类会议、自然语言处理顶级会议**，**第一作者** [论文链接](https://aclanthology.org/2025.emnlp-main.1393/)
 
 * Jintao Huang  (协助指导博士生), Dong Wang, Shasha Li, Yuanxi Peng, **Ruochun Jin***. Enhancing Multimodal Entity Linking via Distillation and Multimodal Large Language Models. **CIKM 2025**. **CCF推荐数据挖掘B类会议**，**通讯作者** [论文链接](https://dl.acm.org/doi/10.1145/3746252.3761053)
