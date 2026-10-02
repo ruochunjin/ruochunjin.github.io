@@ -8,14 +8,14 @@
 
 # Basic Site Settings
 
-locale                   : "en-US"
-title                    : "Homepage"
+locale                   : "zh-CN"
+title                    : "靳若春 JIN Ruochun"
 title_separator          : "-"
 name                     : &name "靳若春 JIN Ruochun"
-description              : &description "个人简介 Short Bio"
+description              : &description "国防科技大学计算机学院副教授，研究方向为数据库理论与系统、大数据、大模型数据管理。Associate Professor at NUDT, working on database theory and systems, big data, and data management for LLMs."
 url                      : https://ruochunjin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "EB-Dodo/ruochunjin.github.io"
+repository               : "ruochunjin/ruochunjin.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,12 +25,11 @@ author:
   avatar           : "avatar-pic.jpg"
   name             : "靳若春 JIN Ruochun"
   pronouns         : "jinrc AT nudt DOT edu DOT cn" #"男"# example: "she/her"  
-  bio              : "副教授 Associate Professor"
+  bio              : "副教授 Associate Professor, NUDT"
   location         : "湖南省长沙市开福区 Kaifu, Changsha, Hunan, China"
   employer         : "国防科技大学计算机学院 College of Computer Science and Technology, NUDT"
-#  uri              : jinrc AT nudt DOT edu DOT cn
-#  email            : "jinrc@nudt.edu.cn" 
-  
+  email            : "jinrc@nudt.edu.cn"
+
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
@@ -40,12 +39,13 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
+  dblp             : "https://dblp.uni-trier.de/pid/197/9561.html"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : #"academicpages"
+  github           : "ruochunjin"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -78,11 +78,11 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: '专著 Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: '期刊论文 Journal Articles'
   conferences:
-    title: 'Conference Papers'
+    title: '会议论文 Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
