@@ -24,7 +24,6 @@ redirect_from:
 奖励与荣誉 Awards
 ======
 * 2024-2026 "CCF青年人才托举工程"（中国科协第十届青年人才托举工程项目支持），[公示链接](https://www.ccf.org.cn/Media_list/2025-01-26/837752.shtml)
-* CCF高级会员；CCF数据库专委会委员、CCF信息系统专委会委员、CCF软件工程专委会委员
 
 科研项目 Research Projects
 ======
@@ -33,6 +32,7 @@ redirect_from:
 
 学术服务 Academic Service
 ======
+* CCF高级会员；CCF数据库专委会委员、CCF信息系统专委会委员、CCF软件工程专委会委员
 * 担任VLDB、KDD、ACL (AC)、EMNLP (AC)、ACMMM、ChinaSys、WSDM、DSE等会议与期刊审稿人
 
 学术论文 Publications
