@@ -8,3 +8,5 @@ date: 2027-01-01
 venue: 'SIGMOD 2027 (Round 2)'
 citation: 'Zixiao Huang, Ruochun Jin*, Haotian Wang, Meng Zhang, Yuhua Tang. &quot;Catching Inconsistencies in Vector Similarity Retrieval.&quot; <i>SIGMOD 2027</i> (Round 2).'
 ---
+
+**作者 Authors**: Zixiao Huang, **Ruochun Jin***, Haotian Wang, Meng Zhang, Yuhua Tang

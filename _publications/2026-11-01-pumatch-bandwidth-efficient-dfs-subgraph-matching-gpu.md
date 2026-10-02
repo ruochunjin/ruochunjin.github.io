@@ -8,3 +8,5 @@ date: 2026-11-01
 venue: 'SC 2026'
 citation: 'Chen Chen, Junsheng Chang, Xin Yang, Ruochun Jin, Li Shen, Kai Lu. &quot;PUMatch: Bandwidth-Efficient DFS-based Subgraph Matching under GPU Memory Oversubscription.&quot; <i>SC 2026</i>.'
 ---
+
+**作者 Authors**: Chen Chen, Junsheng Chang, Xin Yang, **Ruochun Jin**, Li Shen, Kai Lu

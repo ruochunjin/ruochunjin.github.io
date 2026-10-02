@@ -9,3 +9,5 @@ venue: 'IJCAI 2017'
 paperurl: 'https://www.ijcai.org/proceedings/2017/0275.pdf'
 citation: 'Ruochun Jin, Yong Dou, Yueqing Wang, Xin Niu. &quot;Confusion Graph: Detecting Confusion Communities in Large Scale Image Classification.&quot; <i>IJCAI 2017</i>: 1980-1986.'
 ---
+
+**作者 Authors**: **Ruochun Jin**, Yong Dou, Yueqing Wang, Xin Niu

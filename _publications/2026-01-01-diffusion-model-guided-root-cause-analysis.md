@@ -9,3 +9,5 @@ venue: '软件学报 2026'
 paperurl: 'https://jos.org.cn/jos/article/abstract/7473'
 citation: '王浩天, 周学广, 王尚文, 靳若春, 黄万荣, 杨文婧, 王戟. &quot;扩散模型引导的根因分析.&quot; <i>软件学报</i>, 2026.'
 ---
+
+**作者 Authors**: 王浩天, 周学广, 王尚文, **靳若春**, 黄万荣, 杨文婧, 王戟

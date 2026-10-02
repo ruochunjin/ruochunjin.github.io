@@ -8,3 +8,5 @@ date: 2027-01-01
 venue: 'Proceedings of the VLDB Endowment (VLDB 2027)'
 citation: 'Ruochun Jin, Shenglin Chen, Xi Wang, Siyi Yang, Ting Wang. &quot;Fast Discovery of Conditional Functional Dependencies via Transformer-Guided Relation Partitioning.&quot; <i>Proc. VLDB Endow.</i> (VLDB 2027).'
 ---
+
+**作者 Authors**: **Ruochun Jin**, Shenglin Chen, Xi Wang, Siyi Yang, Ting Wang

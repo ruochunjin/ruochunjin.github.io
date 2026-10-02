@@ -8,3 +8,5 @@ date: 2027-01-01
 venue: 'SIGMOD 2027 (Round 1)'
 citation: 'Shenglin Chen, Wenfei Fan, Ruochun Jin*, Kexin Ma. &quot;Detecting Contradictions Within and Across Documents.&quot; <i>SIGMOD 2027</i> (Round 1).'
 ---
+
+**作者 Authors**: Shenglin Chen, Wenfei Fan, **Ruochun Jin***, Kexin Ma

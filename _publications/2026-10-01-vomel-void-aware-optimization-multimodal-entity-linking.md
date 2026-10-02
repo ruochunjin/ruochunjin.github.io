@@ -8,3 +8,5 @@ date: 2026-10-01
 venue: 'ACM MM 2026'
 citation: 'Jintao Huang, Ruochun Jin, Bojun Li, Yuanxi Peng. &quot;VOMEL: Void-Aware Optimization for Multimodal Entity Linking.&quot; <i>ACM MM 2026</i>.'
 ---
+
+**作者 Authors**: Jintao Huang, **Ruochun Jin**, Bojun Li, Yuanxi Peng
