@@ -1,3 +1,14 @@
 <!-- start custom analytics snippet -->
-
+{% if site.analytics.baidu and site.analytics.baidu.site_id and page.analytics != false %}
+<!-- Baidu Tongji (百度统计) -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?{{ site.analytics.baidu.site_id }}";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+{% endif %}
 <!-- end custom analytics snippet -->

@@ -12,3 +12,9 @@
 {% endcase %}
 
 {% endif %}
+
+{% comment %} Custom providers (e.g. Baidu Tongji) load in addition to the main
+     provider, so GA4 and Baidu can run side by side. Guarded by config. {% endcomment %}
+{% unless site.analytics.provider == "custom" %}
+  {% include /analytics-providers/custom.html %}
+{% endunless %}
