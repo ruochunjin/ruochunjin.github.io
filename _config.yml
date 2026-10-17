@@ -147,9 +147,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-analytics-4" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id          :  # GA4 Measurement ID，形如 G-XXXXXXXXXX（创建 GA4 媒体资源后填入，并把 provider 改为 "google-analytics-4"）
+    tracking_id          :  "G-TJ1P3CXML3" # GA4 Measurement ID，形如 G-XXXXXXXXXX（创建 GA4 媒体资源后填入，并把 provider 改为 "google-analytics-4"）
   baidu:
     site_id              :  "032fd95698d6f9d4604cd9d05d8a5668" # 百度统计站点 ID（hm.js? 后面的 32 位字符串，tongji.baidu.com 添加站点后获取）
 
