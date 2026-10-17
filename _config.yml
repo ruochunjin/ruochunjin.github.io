@@ -151,7 +151,7 @@ analytics:
   google:
     tracking_id          :  # GA4 Measurement ID，形如 G-XXXXXXXXXX（创建 GA4 媒体资源后填入，并把 provider 改为 "google-analytics-4"）
   baidu:
-    site_id              :  # 百度统计站点 ID（hm.js? 后面的 32 位字符串，tongji.baidu.com 添加站点后获取）
+    site_id              :  "032fd95698d6f9d4604cd9d05d8a5668" # 百度统计站点 ID（hm.js? 后面的 32 位字符串，tongji.baidu.com 添加站点后获取）
 
 
 # Reading Files
