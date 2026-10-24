@@ -32,7 +32,7 @@ redirect_from:
 
 学术服务 Academic Service
 ======
-* CCF高级会员；CCF数据库专委会委员、CCF信息系统专委会委员、CCF软件工程专委会委员
+* CCF高级会员；CCF数据库专委会委员、CCF信息系统专委会委员、CCF软件工程专委会委员；CCF 218 Club执行委员（2026年10月当选）
 * 担任VLDB、KDD、ACL (AC)、EMNLP (AC)、ACMMM、ChinaSys、WSDM、DSE等会议与期刊审稿人
 
 学术论文 Publications
