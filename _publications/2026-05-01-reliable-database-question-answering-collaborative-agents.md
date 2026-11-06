@@ -3,7 +3,7 @@ title: "Reliable Database Question Answering with Collaborative Agents"
 collection: publications
 category: conferences
 permalink: /publication/2026-reliable-database-question-answering-collaborative-agents
-excerpt: 'Meng Zhang（协助指导博士生）, Xiyue Wang, Yuanxi Peng, Wenjing Yang, Silin Yang, **Ruochun Jin**. **ICASSP 2026**: 17142-17146，IEEE信号处理旗舰会议。已集成至开源工具 [JiuJiuBiao 九九表](https://github.com/ruochunjin/jiujiubiao)'
+excerpt: 'Meng Zhang（协助指导博士生）, Xiyue Wang, Yuanxi Peng, Wenjing Yang, Silin Yang, **Ruochun Jin**. **ICASSP 2026**: 17142-17146，IEEE信号处理旗舰会议，CCF推荐人工智能B类会议。已集成至开源工具 [JiuJiuBiao 九九表](https://github.com/ruochunjin/jiujiubiao)'
 date: 2026-05-01
 venue: 'ICASSP 2026'
 paperurl: 'https://ieeexplore.ieee.org/document/11463606'

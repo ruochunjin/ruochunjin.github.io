@@ -3,7 +3,7 @@ title: "TimeRAG: Boosting LLM Time Series Forecasting via Retrieval-Augmented Ge
 collection: publications
 category: conferences
 permalink: /publication/2025-timerag-boosting-llm-time-series-forecasting-rag
-excerpt: 'Silin Yang, Dong Wang（共同一作）, Haoqi Zheng, **Ruochun Jin**. **ICASSP 2025**，IEEE信号处理旗舰会议'
+excerpt: 'Silin Yang, Dong Wang（共同一作）, Haoqi Zheng, **Ruochun Jin**. **ICASSP 2025**，IEEE信号处理旗舰会议，CCF推荐人工智能B类会议'
 date: 2025-04-01
 venue: 'ICASSP 2025'
 paperurl: 'https://ieeexplore.ieee.org/document/10889933'

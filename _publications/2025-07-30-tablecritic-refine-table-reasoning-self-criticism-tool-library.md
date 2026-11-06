@@ -3,7 +3,7 @@ title: "TableCritic: Refine Table Reasoning via Self-Criticism and Tool Library"
 collection: publications
 category: conferences
 permalink: /publication/2025-tablecritic-refine-table-reasoning-self-criticism-tool-library
-excerpt: '**Ruochun Jin**, Dong Wang, Xiyue Wang, Haoqi Zheng. **CogSci 2025**（第47届认知科学学会年会），**第一作者**。已集成至开源工具 [JiuJiuBiao 九九表](https://github.com/ruochunjin/jiujiubiao)'
+excerpt: '**Ruochun Jin**, Dong Wang, Xiyue Wang, Haoqi Zheng. **CogSci 2025**（第47届认知科学学会年会），CCF推荐交叉B类会议，**第一作者**。已集成至开源工具 [JiuJiuBiao 九九表](https://github.com/ruochunjin/jiujiubiao)'
 date: 2025-07-30
 venue: 'CogSci 2025'
 paperurl: 'https://escholarship.org/content/qt5986p1zh/qt5986p1zh.pdf'
